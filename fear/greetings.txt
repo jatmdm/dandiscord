@@ -1,0 +1,5 @@
+Greetings, {name}!
+Well met, {name}!
+Long days and pleasant nights, {name}...
+My greetings, {name}.
+The pleasure is mine, {name}.
